@@ -1,0 +1,18 @@
+.container{
+	background: url("pp.jpg") no-repeat center;
+	height:650px;
+	width:auto;
+}
+#dropdownMenuButton{
+	border:1.5px solid black;
+	top:330px;
+	left:200px;
+}
+div.dropdown-menu{
+	padding:0;
+border: 1px solid black;
+}
+
+a.dropdown-item{
+border: 1px solid black;
+}
