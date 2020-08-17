@@ -16,6 +16,8 @@ class App extends React.Component {
           <img src={logo} className="App-logo" alt="logo" />
           <p>
             Welcome to Probe Tool
+            You made a great decision by choosing Probe tool
+            <a href="index1.html" > Go to options </a>
           </p>
           
         </header>
